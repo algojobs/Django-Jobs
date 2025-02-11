@@ -1,28 +1,200 @@
 # Django Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 02/04/2025
+This data is updated weekly, with filled postings removed. Last updated: 02/11/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Django Jobs](https://algojobs.io/jobs/django)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 02/11/2025 | [Senior Software Engineer I](https://algojobs.io/jobs/3112911) | [RELX](https://algojobs.io/company/relx/) | N/A | Shanghai, China |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106124) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106200) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106120) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106129) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106335) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106418) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106365) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106348) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106292) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106222) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106380) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106243) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106404) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106184) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106179) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106343) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106249) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106248) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106258) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106114) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106352) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106257) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106337) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106444) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106318) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106378) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106369) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106399) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106160) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106376) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106250) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106406) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106126) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106414) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106159) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106358) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106363) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106218) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106134) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106154) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106153) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106201) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106429) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106336) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106208) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106219) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106382) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106190) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106145) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106375) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106377) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106241) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106403) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106210) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106388) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106307) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106435) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106216) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106397) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106137) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106396) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106374) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106212) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106425) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106177) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106355) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106392) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106357) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106296) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106354) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106415) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106340) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106150) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106204) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106372) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106277) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106185) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106133) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106288) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106401) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106247) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106266) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106293) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106395) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106421) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106170) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106231) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106225) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106236) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106238) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106224) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106217) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106245) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106209) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106214) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106221) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106227) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106229) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106232) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106242) | [Cobblestone Energy, Dubai UAE.](https://algojobs.io/company/cobblestoneenergy/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106115) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106171) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106211) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106158) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106279) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106180) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106361) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106320) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106384) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106132) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106339) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106261) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106265) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106162) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106297) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106315) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106438) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [SOFTWARE ENGINEER - Dubai, UAE](https://algojobs.io/jobs/3106163) | [Cobblestone Energy,  Dubai - UAE.](https://algojobs.io/company/cobblestoneenergy1/) | N/A | Dubai, UAE |
+| 02/10/2025 | [Senior Python Developer (Remote, UK)](https://algojobs.io/jobs/3105671) | [ Nearform](https://algojobs.io/company/nearform/) | N/A | UK (Remote) |
+| 02/10/2025 | [Staff Software Engineer](https://algojobs.io/jobs/3105993) | [Eventbrite, Inc.](https://algojobs.io/company/eventbriteinc/) | N/A | Remote, India |
+| 02/10/2025 | [Senior Software Engineer - Network Security Automation](https://algojobs.io/jobs/3099624) | [Commonwealth Bank of Australia](https://algojobs.io/company/cba/) | N/A | VIC CBD Melbourne Area / Sydney CBD Area |
+| 02/10/2025 | [Senior Front End Developer](https://algojobs.io/jobs/3103941) | [Float Financial Solutions Inc.](https://algojobs.io/company/floatcard/) | N/A | Toronto, Ontario, Canada (Hybrid) |
+| 02/10/2025 | [810 \| Senior Python Developer](https://algojobs.io/jobs/3103737) | [Intetics](https://algojobs.io/company/intetics-2/) | N/A | Ukraine (Remote) |
+| 02/07/2025 | [Backend Software Engineer - Python/Postgres [Remote / Global]](https://algojobs.io/jobs/3091932) | [Enveritas](https://algojobs.io/company/enveritas/) | $135K - $155K | Global / Remote |
+| 02/07/2025 | [Senior Python Developer (Remote, Italy)](https://algojobs.io/jobs/3091030) | [ Nearform](https://algojobs.io/company/nearform/) | N/A | Italy (Remote) |
+| 02/07/2025 | [Software Engineer (Python, Django)](https://algojobs.io/jobs/3091752) | [DigitalOcean](https://algojobs.io/company/digitalocean98/) | N/A | Karachi |
+| 02/07/2025 | [Full Stack Software Engineer](https://algojobs.io/jobs/3094597) | [FedWriters, Inc.](https://algojobs.io/company/fedwriters/) | N/A | Falls Church, VA, US |
+| 02/07/2025 | [Sr. Full Stack Software Engineer](https://algojobs.io/jobs/3094601) | [FedWriters, Inc.](https://algojobs.io/company/fedwriters/) | N/A | Falls Church, VA, US |
+| 02/07/2025 | [Software Engineer](https://algojobs.io/jobs/3093757) | [Hippocratic AI](https://algojobs.io/company/hippocratic-ai/) | N/A | Palo Alto |
+| 02/07/2025 | [Senior Software Engineer - Python/React](https://algojobs.io/jobs/3088879) | [Devsinc](https://algojobs.io/company/devsinc-17/) | N/A | Lahore, Punjab, Pakistan |
+| 02/07/2025 | [Fullstack Software Engineer](https://algojobs.io/jobs/3074180) | [CaptivateIQ](https://algojobs.io/company/captivateiq/) | N/A | Poland (Remote) |
+| 02/07/2025 | [Senior Fullstack Software Engineer](https://algojobs.io/jobs/3074182) | [CaptivateIQ](https://algojobs.io/company/captivateiq/) | N/A | Poland (Remote) |
+| 02/07/2025 | [Entry-Level Software Engineer (Backend) –AI- Powered Healthcare Solutions](https://algojobs.io/jobs/3093754) | [Hippocratic AI](https://algojobs.io/company/hippocratic-ai/) | N/A | Palo Alto |
+| 02/07/2025 | [Junior Backend Web Developer](https://algojobs.io/jobs/3097935) | [DRAXIS ENVIRONMENTAL S.A.](https://algojobs.io/company/draxis/) | N/A | Thessaloniki, Central Macedonia, Greece (Hybrid) |
+| 02/06/2025 | [Staff Software Engineer](https://algojobs.io/jobs/3076714) | [DoubleVerify](https://algojobs.io/company/doubleverify/) | $128K - $275K | New York  |
+| 02/06/2025 | [Sr. Software Engineer II](https://algojobs.io/jobs/3076709) | [DoubleVerify](https://algojobs.io/company/doubleverify/) | $102K - $220K | New York  |
+| 02/06/2025 | [Software Engineer - Backend](https://algojobs.io/jobs/3075563) | [Nextdoor](https://algojobs.io/company/nextdoor/) | $153K - $212K | New York, NYC |
+| 02/06/2025 | [Software Engineer - Backend](https://algojobs.io/jobs/3075562) | [Nextdoor](https://algojobs.io/company/nextdoor/) | $153K - $212K | San Francisco, CA |
+| 02/06/2025 | [Software Engineer (UI) (Future Opportunities)](https://algojobs.io/jobs/3075045) | [Crowdbotics](https://algojobs.io/company/crowdbotics/) | N/A | Remote  |
+| 02/06/2025 | [Senior Software Engineer I](https://algojobs.io/jobs/3076402) | [Carta](https://algojobs.io/company/carta/) | N/A | Rio de Janeiro |
+| 02/06/2025 | [Software Development Engineer-II (Full Stack)](https://algojobs.io/jobs/3075134) | [Innovaccer Inc.](https://algojobs.io/company/innovaccer/) | N/A | Noida, Uttar Pradesh, India |
+| 02/06/2025 | [Software Engineer III](https://algojobs.io/jobs/3074343) | [Shippo](https://algojobs.io/company/shippo/) | N/A | Brazil (Remote) |
+| 02/06/2025 | [Software Engineering - Angular & Python - Senior Associate](https://algojobs.io/jobs/3084220) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bangalore / Mumbai (AC) - Winchester Building / Hyderabad |
+| 02/06/2025 | [Senior Software Engineer - Python/Django](https://algojobs.io/jobs/3080177) | [Western Governors University](https://algojobs.io/company/wgu/) | N/A | Guadalajara, MX, Mexico |
+| 02/06/2025 | [Staff Software Engineer - Python/Django](https://algojobs.io/jobs/3080181) | [Western Governors University](https://algojobs.io/company/wgu/) | N/A | Mexico Office |
+| 02/06/2025 | [Full Stack Developer](https://algojobs.io/jobs/3084232) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Amsterdam, Netherlands |
+| 02/06/2025 | [Junior Full Stack Developer](https://algojobs.io/jobs/3084233) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Amsterdam, Netherlands |
+| 02/05/2025 | [Senior Backend Software Engineer](https://algojobs.io/jobs/3058398) | [SecurityScorecard](https://algojobs.io/company/securityscorecard/) | N/A | Remote (Argentina) |
+| 02/05/2025 | [Software Engineer](https://algojobs.io/jobs/3057300) | [Nurix](https://algojobs.io/company/nurix/) | N/A | San Francisco  |
+| 02/05/2025 | [Software Engineer 0/1 - Linux/Python/Bash/Elasticsearch/NiFi/Jenkins/Ruby](https://algojobs.io/jobs/3056713) | [Captivation Software](https://algojobs.io/company/captivation/) | $130K - $270K | Annapolis Junction, MD |
+| 02/05/2025 | [Software Engineer](https://algojobs.io/jobs/3058437) | [Boomi Careers Page](https://algojobs.io/company/boomilp/) | N/A | India |
+| 02/05/2025 | [Software Development Engineer - Open Banking Features](https://algojobs.io/jobs/3057762) | [GoCardless](https://algojobs.io/company/gocardless/) | $4K - $6K | Riga, Latvia |
+| 02/05/2025 | [Software Developer, Crypto Trading](https://algojobs.io/jobs/3047891) | [Robinhood](https://algojobs.io/company/robinhood/) | $119K - $140K | Toronto, ON |
+| 02/05/2025 | [Senior Software Engineer I, Integrations](https://algojobs.io/jobs/3048497) | [Axon](https://algojobs.io/company/axon/) | N/A | Seattle, Washington, United States |
+| 02/05/2025 | [Software Engineer II (Mexico)](https://algojobs.io/jobs/3059845) | [JLLT](https://algojobs.io/company/jll/) | N/A | Jalisco,MEX, Mexico |
+| 02/05/2025 | [Software Engineer 1](https://algojobs.io/jobs/3055865) | [Wyetech](https://algojobs.io/company/wyetechllc/) | $52 - $107 | Linthicum Heights, Maryland |
+| 02/05/2025 | [Software Engineer II (Mexico)](https://algojobs.io/jobs/3063706) | [JLL](https://algojobs.io/company/jll/) | N/A | Jalisco,MEX, Mexico |
+| 02/05/2025 | [Software Engineering Intern](https://algojobs.io/jobs/3059244) | [Perchwell](https://algojobs.io/company/perchwell/) | N/A | New York Office |
+| 02/05/2025 | [Staff Software Engineer - Data Platform (India)](https://algojobs.io/jobs/3045313) | [Level AI](https://algojobs.io/company/levelai/) | N/A | India (Remote) |
+| 02/05/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3060362) | [Highmark Health](https://algojobs.io/company/highmarkhealth/) | N/A | GA, Working at Home - Georgia / IL, Working at Home - Illinois / SD, Working at Home-South Dakota / ... |
+| 02/05/2025 | [Staff Software Engineer - Open Source](https://algojobs.io/jobs/3060847) | [Western Governors University](https://algojobs.io/company/wgu/) | $140K - $217K | Salt Lake City Office, United States of America |
+| 02/05/2025 | [Principal Sofware Engineer (Backend)](https://algojobs.io/jobs/3049195) | [Articul8](https://algojobs.io/company/articul8/) | N/A | Global/Remote |
+| 02/05/2025 | [Backend Engineer](https://algojobs.io/jobs/3059298) | [ev.energy](https://algojobs.io/company/ev.energy/) | N/A | UK |
+| 02/05/2025 | [Java - Full Stack Developer](https://algojobs.io/jobs/3053541) | [Kyndryl](https://algojobs.io/company/kyndryl/) | N/A | Gurgaon, Haryana, India / Bangalore, Karnataka, India / Hyderabad, Telangana, India / ... |
+| 02/05/2025 | [Senior Front End Developer (React)](https://algojobs.io/jobs/3044603) | [Zipdev](https://algojobs.io/company/zipdev/) | N/A | Mexico (Remote) |
+| 02/05/2025 | [Senior Backend Developer (Django)](https://algojobs.io/jobs/3054866) | [Zipdev](https://algojobs.io/company/zipdev/) | N/A | Mexico (Remote) |
+| 02/04/2025 | [Software Developer, Full Stack (Calgary, Canada)](https://algojobs.io/jobs/3046777) | [Syndio](https://algojobs.io/company/syndio/) | N/A | Calgary, Alberta, Canada |
+| 02/04/2025 | [K-Star Software Engineer](https://algojobs.io/jobs/3046313) | [Careers at KKR](https://algojobs.io/company/kkr/) | N/A | Dallas, Texas, United States |
+| 02/04/2025 | [Software Engineer, Data Engineering](https://algojobs.io/jobs/3046125) | [Grata](https://algojobs.io/company/gratadata/) | $120K - $150K | New York City, New York, United States |
+| 02/04/2025 | [Software Development Engineer-III (Fullstack)](https://algojobs.io/jobs/3046483) | [Innovaccer Inc.](https://algojobs.io/company/innovaccer/) | N/A | Noida, Uttar Pradesh, India |
+| 02/04/2025 | [Software Engineer (New Grad) - Poland](https://algojobs.io/jobs/3048597) | [Samsara](https://algojobs.io/company/samsara/) | N/A | Remote - Poland |
+| 02/04/2025 | [Software Engineering Intern - Poland](https://algojobs.io/jobs/3048588) | [Samsara](https://algojobs.io/company/samsara/) | N/A | Remote - Poland |
+| 02/04/2025 | [Software Engineering Intern - London](https://algojobs.io/jobs/3048591) | [Samsara](https://algojobs.io/company/samsara/) | N/A | London, UK |
 | 02/04/2025 | [Senior Software Development Engineer](https://algojobs.io/jobs/3031888) | [Razorpay Software Private Limited](https://algojobs.io/company/razorpaysoftwareprivatelimited/) | N/A | Bangalore |
 | 02/04/2025 | [Senior Software Engineer RR/89/2025 (Python and Django \|\| 4 to 8 Yrs](https://algojobs.io/jobs/3033181) | [emids](https://algojobs.io/company/emids/) | N/A | Bangalore, India |
-| 02/03/2025 | [2025 Summer Intern, Software Engineer (MPS)](https://algojobs.io/jobs/3032903) | [Samsung Research America Internship](https://algojobs.io/company/samsungresearchamericainternship/) | $36 - $63 | 665 Clyde Avenue, Mountain View,  CA, USA |
+| 02/04/2025 | [Software Engineer](https://algojobs.io/jobs/3044326) | [AppNation](https://algojobs.io/company/appnation/) | N/A | İstanbul, İstanbul, Turkey |
+| 02/04/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3044847) | [ReversingLabs](https://algojobs.io/company/reversinglabs/) | N/A | Zagreb, Grad Zagreb, Croatia (Hybrid) |
+| 02/04/2025 | [Senior Backend Engineer - New Initiative (Portugal-based Remote/Hybrid)](https://algojobs.io/jobs/3045293) | [Sword Health](https://algojobs.io/company/swordhealth/) | N/A | Porto (Remote) |
 | 02/03/2025 | [Software Engineer II (Financial Assistance)](https://algojobs.io/jobs/3032083) | [Cedar](https://algojobs.io/company/careportalinc/) | $145K - $161K | USA |
 | 02/03/2025 | [Staff Software Engineer — Fullstack](https://algojobs.io/jobs/3033606) | [Snorkel AI](https://algojobs.io/company/snorkelai/) | N/A | Hybrid / San Francisco, CA or Redwood City, CA |
 | 02/03/2025 | [Software Engineer](https://algojobs.io/jobs/3032710) | [Profluent](https://algojobs.io/company/profluent/) | $150K - $205K | Emeryville, California, United States · Hybrid (2-3 days on-site) |
 | 02/03/2025 | [Sr. Software Engineer II](https://algojobs.io/jobs/3033406) | [DoubleVerify](https://algojobs.io/company/doubleverify/) | $102K - $202K | New York  |
-| 02/03/2025 | [Senior Software Development Engineer](https://algojobs.io/jobs/3031892) | [Razorpay Software Private Limited](https://algojobs.io/company/razorpaysoftwareprivatelimited/) | N/A | Bangalore |
 | 02/03/2025 | [Python Software Developer \| Porto - 12 month contract](https://algojobs.io/jobs/3032061) | [Five9](https://algojobs.io/company/five9/) | N/A | Porto, Portugal (Hybrid) |
 | 02/03/2025 | [Sr. Python Developer](https://algojobs.io/jobs/3039413) | [Prolifics Talent Acquisition Team](https://algojobs.io/company/prolifics/) | N/A | California |
 | 02/03/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3027974) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Hyderabad |
-| 02/03/2025 | [Software Engineer](https://algojobs.io/jobs/3035331) | [Corridor Group Holdings](https://algojobs.io/company/wellsky/) | N/A | Overland Park, KS, United States of America |
-| 02/03/2025 | [Software Engineer - Infrastructure and Quality](https://algojobs.io/jobs/3036417) | [Intel](https://algojobs.io/company/intel/) | $146K - $206K | US, Oregon, Hillsboro / US, California, Santa Clara |
 | 02/03/2025 | [Sr. Software Engineer](https://algojobs.io/jobs/3035329) | [Corridor Group Holdings](https://algojobs.io/company/wellsky/) | N/A | Overland Park, KS, United States of America |
 | 02/03/2025 | [Product Engineer (Backend) - NYC](https://algojobs.io/jobs/3030588) | [Brilliant](https://algojobs.io/company/brilliant/) | $175K - $220K | New York City (Hybrid) |
 | 02/03/2025 | [Product Engineer (Backend)](https://algojobs.io/jobs/3030590) | [Brilliant](https://algojobs.io/company/brilliant/) | $175K - $220K | Americas (Remote) |
-| 02/03/2025 | [Senior Software Developer](https://algojobs.io/jobs/3038624) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | Alberta, CAN - Remote, Canada |
 | 02/03/2025 | [Python Developer (US-based client)](https://algojobs.io/jobs/3030257) | [Trinetix](https://algojobs.io/company/trinetix/) | N/A | Buenos Aires, Buenos Aires, Argentina (Hybrid) |
 | 02/03/2025 | [R&R FS - Python Developer -Senior Associate](https://algojobs.io/jobs/3039163) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bangalore / Hyderabad |
 | 02/01/2025 | [Software Developer, Crypto Movements](https://algojobs.io/jobs/3017062) | [Robinhood](https://algojobs.io/company/robinhood/) | $124K - $145K | Toronto, Ontario |
@@ -33,8 +205,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/31/2025 | [Staff Backend Software Engineer](https://algojobs.io/jobs/3017588) | [Sirona Medical](https://algojobs.io/company/sironamedical/) | $180K - $210K | San Francisco |
 | 01/31/2025 | [Software Engineer, Backend](https://algojobs.io/jobs/3016235) | [UnitedMasters \| Translation](https://algojobs.io/company/unitedmasterstranslation/) | $155K - $185K | Brooklyn, NY \| San Francisco, CA  |
 | 01/31/2025 | [DevOps Developer with Hardware interest](https://algojobs.io/jobs/3015694) | [Kambi](https://algojobs.io/company/kambi/) | N/A | Bucharest |
-| 01/31/2025 | [Lead Software Development Engineer](https://algojobs.io/jobs/3001765) | [Razorpay Software Private Limited](https://algojobs.io/company/razorpaysoftwareprivatelimited/) | N/A | Bangalore |
-| 01/31/2025 | [Associate Software Engineer](https://algojobs.io/jobs/3019302) | [Highmark Health](https://algojobs.io/company/highmarkhealth/) | N/A | ID, Working at Home - Idaho / KY, Working at Home - Kentucky / FL, Working at Home - Florida / ... |
 | 01/31/2025 | [Software Developer](https://algojobs.io/jobs/3009272) | [GDIT](https://algojobs.io/company/gdit/) | $83K - $109K | USA FL MacDill AFB, United States of America |
 | 01/31/2025 | [Sr Software Developer](https://algojobs.io/jobs/3009269) | [GDIT](https://algojobs.io/company/gdit/) | $96K - $126K | USA FL MacDill AFB, United States of America |
 | 01/31/2025 | [Sr Full Stack Developer](https://algojobs.io/jobs/3013900) | [ForceMetrics](https://algojobs.io/company/forcemetrics/) | $130K - $170K | Denver, Colorado, United States (Remote) |
@@ -71,11 +241,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/27/2025 | [AI Software Engineer](https://algojobs.io/jobs/2962830) | [Carnegie Mellon University](https://algojobs.io/company/cmu/) | N/A | Arlington, VA / Pittsburgh, PA |
 | 01/27/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2963687) | [Western Governors University](https://algojobs.io/company/wgu/) | $116K - $174K | Salt Lake City Office, United States of America |
 | 01/27/2025 | [AI Software Engineer](https://algojobs.io/jobs/2964192) | [Carnegie Mellon University](https://algojobs.io/company/cmu/) | N/A | Arlington, VA / Pittsburgh, PA |
-| 01/27/2025 | [Associate AI Software Engineer](https://algojobs.io/jobs/2962835) | [Carnegie Mellon University](https://algojobs.io/company/cmu/) | N/A | Arlington, VA / Pittsburgh, PA |
-| 01/27/2025 | [Associate AI Software Engineer](https://algojobs.io/jobs/2964187) | [Carnegie Mellon University](https://algojobs.io/company/cmu/) | N/A | Arlington, VA / Pittsburgh, PA |
-| 01/27/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/2957421) | [IT Labs](https://algojobs.io/company/it-labs1/) | N/A | Skopje, Greater Skopje, North Macedonia (Remote) |
 | 01/27/2025 | [Full Stack Developer](https://algojobs.io/jobs/2953359) | [Kyndryl](https://algojobs.io/company/kyndryl/) | N/A | Singapore, South East, Singapore |
-| 01/27/2025 | [Python Developer](https://algojobs.io/jobs/2964113) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | $105K - $110K | Phoenix, AZ, United States of America |
 | 01/27/2025 | [Principal Software Developer](https://algojobs.io/jobs/2963575) | [LE0005 CLEAResult Consulting Inc.](https://algojobs.io/company/clearesult/) | $104K - $157K | Remote - United States / Remote - Texas |
 | 01/27/2025 | [Python Developer (Mobile, Cloud, IoT and Blockchain Technologies)](https://algojobs.io/jobs/2964123) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | N/A | Hyderabad -Gachibowli (Orion), India |
 | 01/24/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2944608) | [Demandbase](https://algojobs.io/company/demandbase/) | N/A | United States - Hub |
@@ -92,13 +258,13 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/23/2025 | [Sr. Software Engineer](https://algojobs.io/jobs/2929264) | [6sense](https://algojobs.io/company/6sense/) | $172K - $253K | San Francisco, California, United States |
 | 01/23/2025 | [Senior Developer, Support Engineer](https://algojobs.io/jobs/2930917) | [Okta](https://algojobs.io/company/okta/) | N/A | Bengaluru, India |
 | 01/23/2025 | [Experienced Software Engineer, Developer](https://algojobs.io/jobs/2934481) | [Boeing](https://algojobs.io/company/boeing/) | $114K - $155K | USA - El Segundo, CA, United States of America |
-| 01/23/2025 | [Senior Software Engineer (Front End, Fullstack), Evisort](https://algojobs.io/jobs/2936027) | [Workday India Private Limited](https://algojobs.io/company/workday/) | $127K - $190K | Canada, BC, Vancouver |
 | 01/23/2025 | [Remote Fullstack Software Engineer (JavaScript/Python)](https://algojobs.io/jobs/2914021) | [Trellis](https://algojobs.io/company/trellis/) | N/A | US (Remote) |
 | 01/23/2025 | [Full-stack Software Engineer (Senior or Staff)](https://algojobs.io/jobs/2932324) | [Blueberry Pediatrics](https://algojobs.io/company/blueberrypediatrics/) | $120K - $180K | Remote, USA |
 | 01/23/2025 | [Senior Backend Software Engineer](https://algojobs.io/jobs/2928064) | [Orfium](https://algojobs.io/company/orfium/) | N/A | Athens, Attica, Greece (Hybrid) |
+| 01/23/2025 | [Senior Backend Engineer (Python)](https://algojobs.io/jobs/3093696) | [Rossum](https://algojobs.io/company/rossum.ai/) | N/A | Prague |
 | 01/23/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/2941491) | [BrainHi](https://algojobs.io/company/brainhi/) | N/A | Bayamón, Bayamón, Puerto Rico (Hybrid) |
-| 01/23/2025 | [Senior Full-stack Django Developer - Canada](https://algojobs.io/jobs/2927485) | [Safety Cybersecurity](https://algojobs.io/company/safety/) | N/A | Canada (Remote) |
 | 01/22/2025 | [Senior Software Engineer - Risk & Fraud](https://algojobs.io/jobs/2915456) | [Eventbrite, Inc.](https://algojobs.io/company/eventbriteinc/) | $113K - $203K | Remote, United States |
+| 01/22/2025 | [Senior Software Engineer, API](https://algojobs.io/jobs/2900813) | [Headspace](https://algojobs.io/company/hs/) | $104K - $157K | Remote - United States |
 | 01/22/2025 | [Software Engineer I](https://algojobs.io/jobs/2917827) | [Maybern](https://algojobs.io/company/maybern/) | $125K - $135K | New York Office |
 | 01/22/2025 | [System Software Engineer Intern](https://algojobs.io/jobs/2921150) | [Hewlett Packard Enterprise](https://algojobs.io/company/hpe/) | N/A | Taipei, Taipei City, Taiwan |
 | 01/22/2025 | [Python Developer (Gen AI)](https://algojobs.io/jobs/2913550) | [Accellor](https://algojobs.io/company/accellor/) | N/A | Hyderabad, Telangana, India |
@@ -130,10 +296,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/17/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2875225) | [NeuroFlow](https://algojobs.io/company/neuroflow/) | N/A | Philadelphia |
 | 01/17/2025 | [Staff Software Engineer](https://algojobs.io/jobs/2876729) | [Material Bank](https://algojobs.io/company/materialbank/) | N/A | New York, NY \| Boston, MA \| Miami-Boca Raton |
 | 01/17/2025 | [Staff Software Engineer](https://algojobs.io/jobs/2875726) | [Twist Bioscience](https://algojobs.io/company/twistbioscience/) | $187K - $217K | USA - South San Francisco, CA |
-| 01/17/2025 | [Software Engineer, University Platform](https://algojobs.io/jobs/2862438) | [MongoDB](https://algojobs.io/company/mongodb/) | N/A | Canada |
 | 01/17/2025 | [Software Engineer, Backend - Growth (Mid-Level or Higher)](https://algojobs.io/jobs/2864296) | [CloudTrucks](https://algojobs.io/company/cloudtrucks/) | N/A | San Francisco, CA |
 | 01/17/2025 | [Software Engineer 2](https://algojobs.io/jobs/2886117) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Hyderabad, Telangana, India |
-| 01/17/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2884357) | [Humana Insurance Company](https://algojobs.io/company/humana/) | $106K - $147K | Remote Kentucky, United States of America |
 | 01/17/2025 | [IN-Senior Associate _NET Developer _ Emerging Technologies_ Advisory_ Bengaluru](https://algojobs.io/jobs/2868759) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
 | 01/17/2025 | [Middle-Senior Python Developer (with Java knowledge also)](https://algojobs.io/jobs/2878881) | [Arobs Transilvania Software](https://algojobs.io/company/arobs/) | N/A | Cluj Napoca, RO |
 | 01/17/2025 | [IN_Senior Associate _.NET Developer _ Emerging Technologies_ Advisory_ Bengaluru](https://algojobs.io/jobs/2868792) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
@@ -157,14 +321,12 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/15/2025 | [Sr Software Engineer](https://algojobs.io/jobs/2851203) | [Western Governors University](https://algojobs.io/company/wgu/) | $116K - $174K | Salt Lake City Office, United States of America |
 | 01/15/2025 | [Senior Software Developer](https://algojobs.io/jobs/2852209) | [General Motors](https://algojobs.io/company/generalmotors/) | $97K - $155K | Oshawa, Ontario, Canada |
 | 01/15/2025 | [Full Stack Developer (Python & React)](https://algojobs.io/jobs/2850697) | [ISS STOXX GmbH](https://algojobs.io/company/issgovernance/) | N/A | Mumbai, India |
-| 01/14/2025 | [Software Engineer 3](https://algojobs.io/jobs/2833555) | [MongoDB](https://algojobs.io/company/mongodb/) | $101K - $198K | New York City |
 | 01/14/2025 | [Lead Software Development Engineer](https://algojobs.io/jobs/2832286) | [Razorpay Software Private Limited](https://algojobs.io/company/razorpaysoftwareprivatelimited/) | N/A | Bangalore |
-| 01/14/2025 | [Java Developer (with Python Experience)](https://algojobs.io/jobs/2815859) | [Encora](https://algojobs.io/company/encora10/) | N/A | Kuala Lumpur |
 | 01/14/2025 | [Software Engineer, Back end (Black Opal)](https://algojobs.io/jobs/2831603) | [Q-CTRL](https://algojobs.io/company/q-ctrl/) | N/A | Sydney (Hybrid) |
 | 01/14/2025 | [Software Engineer - Python (USA/Remote)](https://algojobs.io/jobs/2819099) | [Articul8](https://algojobs.io/company/articul8/) | N/A | North America/Remote |
 | 01/14/2025 | [Software Engineer (Dublin, CA - On-Site/Hybrid)](https://algojobs.io/jobs/2819103) | [Articul8](https://algojobs.io/company/articul8/) | N/A | Dublin, CA (HQ) (Hybrid) |
 | 01/14/2025 | [Senior Software Engineer, Back end (Black Opal)](https://algojobs.io/jobs/2831607) | [Q-CTRL](https://algojobs.io/company/q-ctrl/) | N/A | Sydney (Hybrid) |
-| 01/14/2025 | [Engineering Intern, Backend Software](https://algojobs.io/jobs/2831485) | [Lumafield](https://algojobs.io/company/lumafield/) | N/A | San Francisco, CA |
+| 01/14/2025 | [Frontend Developer (Netherlands)](https://algojobs.io/jobs/2830055) | [AND Digital](https://algojobs.io/company/and-digital/) | N/A | Amsterdam, North Holland, Netherlands (Hybrid) |
 | 01/14/2025 | [Full Stack Software Developer (Contract, Buenos Aires)](https://algojobs.io/jobs/2830251) | [CaryHealth](https://algojobs.io/company/caryhealth/) | N/A | Buenos Aires, Buenos Aires, Argentina (Remote) |
 | 01/13/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2816648) | [Focal Systems](https://algojobs.io/company/focalsystems/) | $200K - $230K | San Francisco, CA |
 | 01/13/2025 | [Senior Software Engineer I, Developer Ecosystem](https://algojobs.io/jobs/2817382) | [Carta](https://algojobs.io/company/carta/) | N/A | Rio de Janeiro, Brazil |
@@ -186,17 +348,16 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/13/2025 | [Software Engineer, Back-end](https://algojobs.io/jobs/2807909) | [CorePlan](https://algojobs.io/company/coreplan/) | N/A | Perth HQ |
 | 01/13/2025 | [Senior Software Engineer, Quantum Control (Scale up)](https://algojobs.io/jobs/2815456) | [Q-CTRL](https://algojobs.io/company/q-ctrl/) | N/A | Sydney (Hybrid) |
 | 01/13/2025 | [Senior Software Engineer, Quantum Control (Scale up)](https://algojobs.io/jobs/2815457) | [Q-CTRL](https://algojobs.io/company/q-ctrl/) | $135K - $170K | Los Angeles (Hybrid) |
-| 01/13/2025 | [Senior Software Developer - Full Stack](https://algojobs.io/jobs/2822323) | [Quantiphi](https://algojobs.io/company/quantiphi/) | N/A | IN KL Trivandrum / IN KA Bengaluru / IN MH Mumbai Eureka |
 | 01/13/2025 | [Senior Full-Stack Developer (Vue, Python, Django)](https://algojobs.io/jobs/2813833) | [Devsu](https://algojobs.io/company/devsu/) | N/A | Colombia (Remote) |
+| 01/13/2025 | [Senior Software Developer - Full Stack](https://algojobs.io/jobs/2822323) | [Quantiphi](https://algojobs.io/company/quantiphi/) | N/A | IN KL Trivandrum / IN KA Bengaluru / IN MH Mumbai Eureka |
 | 01/10/2025 | [Software Engineer](https://algojobs.io/jobs/2799628) | [Paperless Parts](https://algojobs.io/company/paperlessparts/) | N/A | Boston, MA |
 | 01/10/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2799190) | [Amyris](https://algojobs.io/company/amyris/) | N/A | Brazil-Campinas (Hybrid) |
 | 01/09/2025 | [Software Engineer (New Grad) - US](https://algojobs.io/jobs/2786630) | [Samsara](https://algojobs.io/company/samsara/) | $87K - $113K | Canada - Remote |
 | 01/09/2025 | [Software Engineer (New Grad) - US](https://algojobs.io/jobs/2786629) | [Samsara](https://algojobs.io/company/samsara/) | $89K - $150K | US (Remote) |
 | 01/09/2025 | [Software Engineer II](https://algojobs.io/jobs/2786408) | [Quorum](https://algojobs.io/company/quorum/) | N/A | Moldova |
 | 01/09/2025 | [Senior Software Engineer, Full Stack](https://algojobs.io/jobs/2785738) | [Cambridge Mobile Telematics](https://algojobs.io/company/cambridgemobiletelematics/) | N/A | Cambridge, MA |
-| 01/09/2025 | [Senior Software Engineer - Asynchronous Processing](https://algojobs.io/jobs/2785603) | [Klaviyo](https://algojobs.io/company/klaviyo/) | $152K - $228K | Boston, MA |
+| 01/09/2025 | [Backend Engineer (Python Developer) - Europe](https://algojobs.io/jobs/2785307) | [FareHarbor](https://algojobs.io/company/fareharbor/) | N/A | Amsterdam |
 | 01/09/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2791441) | [Ivy Tech](https://algojobs.io/company/ivytech/) | N/A | Systems Office, United States of America |
-| 01/09/2025 | [Lead Backend Engineer](https://algojobs.io/jobs/2784165) | [NuvoAir](https://algojobs.io/company/nuvoair/) | N/A | United Kingdom (Remote) |
 | 01/09/2025 | [Sr. Backend Engineer](https://algojobs.io/jobs/2783917) | [Savii](https://algojobs.io/company/savii-2/) | N/A | Bengaluru - Remote |
 | 01/09/2025 | [Lead Python Developer](https://algojobs.io/jobs/2789839) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | $115K - $120K | Alpharetta, GA / New York, NY |
 | 01/08/2025 | [Software Developer, Sportsbook Wagering (Coop) - S2025](https://algojobs.io/jobs/2770411) | [theScore COOP Job Board](https://algojobs.io/company/coop/) | N/A | Toronto, ON |
@@ -223,7 +384,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/07/2025 | [Software Engineer Co-op (May-Aug 2025)](https://algojobs.io/jobs/2755148) | [A Thinking Ape](https://algojobs.io/company/athinkingape/) | N/A | Vancouver |
 | 01/07/2025 | [Senior Software Engineer - Fintech](https://algojobs.io/jobs/2756000) | [Ebury](https://algojobs.io/company/ebury/) | N/A | Málaga |
 | 01/07/2025 | [Senior Software Engineer - Fintech](https://algojobs.io/jobs/2756001) | [Ebury](https://algojobs.io/company/ebury/) | N/A | Madrid |
-| 01/07/2025 | [Senior Software Engineer (Python) - A25029](https://algojobs.io/jobs/2753531) | [Activate Interactive Pte Ltd](https://algojobs.io/company/activate-interactive-pte-ltd/) | N/A | Singapore, Singapore, Singapore |
 | 01/07/2025 | [Senior Software Developer](https://algojobs.io/jobs/2758958) | [580 G Adventures South Africa Pty Ltd](https://algojobs.io/company/gadventures/) | N/A | Cape Town, South Africa |
 | 01/06/2025 | [Intern Software Engineer - Summer 2025](https://algojobs.io/jobs/2738193) | [Internships with Zinnia](https://algojobs.io/company/zinniaintern/) | N/A | Johns Creek, GA |
 | 01/06/2025 | [Senior Full Stack Software Engineer, AI](https://algojobs.io/jobs/2737777) | [Infinite Reality](https://algojobs.io/company/infinite-reality/) | $132K - $171K | US (Remote) |
@@ -257,7 +417,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/19/2024 | [Software Development Engineer-II (Backend)](https://algojobs.io/jobs/2639616) | [Innovaccer Inc.](https://algojobs.io/company/innovaccer/) | N/A | Noida, Uttar Pradesh, India |
 | 12/19/2024 | [Fullstack Software Engineer II](https://algojobs.io/jobs/2641135) | [Quorum](https://algojobs.io/company/quorum/) | N/A | Brazil |
 | 12/19/2024 | [Backend Software Engineer](https://algojobs.io/jobs/2640071) | [Beauhurst](https://algojobs.io/company/beauhurst/) | N/A | London |
-| 12/19/2024 | [Dashboard Developer](https://algojobs.io/jobs/2645977) | [Aviva](https://algojobs.io/company/aviva/) | $30K - $40K | Norwich, United Kingdom |
 | 12/18/2024 | [Senior Backend Engineer](https://algojobs.io/jobs/2627561) | [Stellic](https://algojobs.io/company/stellic/) | N/A | Karachi, Pakistan |
 | 12/18/2024 | [Senior Frontend Engineer](https://algojobs.io/jobs/2627563) | [Stellic](https://algojobs.io/company/stellic/) | N/A | Karachi, Pakistan |
 | 12/18/2024 | [Principal Software Engineer II, Data Engineering](https://algojobs.io/jobs/2627911) | [Cambridge Mobile Telematics](https://algojobs.io/company/cambridgemobiletelematics/) | N/A | Cambridge, MA |
@@ -266,7 +425,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/18/2024 | [SR Back-End Developer (NW - 18122024)](https://algojobs.io/jobs/2626561) | [Celara](https://algojobs.io/company/celaralabs/) | N/A | Buenos Aires (Remote) |
 | 12/17/2024 | [Intern Software Engineer - Summer 2025](https://algojobs.io/jobs/2613366) | [Internships with Zinnia](https://algojobs.io/company/zinniaintern/) | N/A | Miami, FL |
 | 12/17/2024 | [Lead Software Engineer II - SMS](https://algojobs.io/jobs/2614034) | [Klaviyo](https://algojobs.io/company/klaviyo/) | $220K - $330K | Boston, MA |
-| 12/17/2024 | [Software Engineer II - SMS International](https://algojobs.io/jobs/2614035) | [Klaviyo](https://algojobs.io/company/klaviyo/) | $68K - $102K | London, UK |
 | 12/17/2024 | [Senior Backend Engineer - Grafana IRM (Remote, Sweden)](https://algojobs.io/jobs/2614619) | [Grafana Labs](https://algojobs.io/company/grafanalabs/) | N/A | Sweden (Remote) |
 | 12/17/2024 | [Senior Backend Engineer - Grafana IRM (Remote, Germany)](https://algojobs.io/jobs/2614613) | [Grafana Labs](https://algojobs.io/company/grafanalabs/) | $94K - $117K | Germany (Remote) |
 | 12/17/2024 | [Senior Backend Engineer - Grafana IRM (Remote, UK)](https://algojobs.io/jobs/2614611) | [Grafana Labs](https://algojobs.io/company/grafanalabs/) | $89K - $111K | United Kingdom (Remote) |
@@ -279,30 +437,9 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/16/2024 | [Senior Software Engineer - Full Stack](https://algojobs.io/jobs/2600461) | [Prismatic](https://algojobs.io/company/prismatic/) | $170K - $195K | United States |
 | 12/16/2024 | [Senior Software Engineer, Platform](https://algojobs.io/jobs/2600570) | [Hungryroot](https://algojobs.io/company/hungryroot/) | $144K - $180K | Remote |
 | 12/16/2024 | [Fullstack Software Engineer](https://algojobs.io/jobs/2600572) | [Hungryroot](https://algojobs.io/company/hungryroot/) | $128K - $160K | Remote |
-| 12/16/2024 | [Software Engineer - Backend](https://algojobs.io/jobs/2597691) | [Updraft](https://algojobs.io/company/updraft/) | N/A | Bengaluru, Karnataka, India (Hybrid) |
 | 12/16/2024 | [Senior Backend Engineer, Map Tooling Team](https://algojobs.io/jobs/2598349) | [Woven by Toyota](https://algojobs.io/company/woven-by-toyota/) | N/A | Tokyo (Hybrid) |
 | 12/16/2024 | [Backend Engineer, Python](https://algojobs.io/jobs/2604679) | [PayPal](https://algojobs.io/company/paypal/) | $60K - $147K | New York City, New York, United States of America / San Jose, California, United States of America / Chicago, Illinois, United States of America / ... |
-| 12/15/2024 | [Backend Python / Django Developer](https://algojobs.io/jobs/2597141) | [KAMI Workforce](https://algojobs.io/company/harmony-cloud-systems-pte-ltd/) | N/A | Singapore (Remote) |
 | 12/13/2024 | [Software Engineer](https://algojobs.io/jobs/2587583) | [SevenRooms](https://algojobs.io/company/sevenrooms/) | N/A | London, United Kingdom |
 | 12/13/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2587582) | [SevenRooms](https://algojobs.io/company/sevenrooms/) | N/A | London, United Kingdom |
 | 12/13/2024 | [Software Engineer Intern, Lab Systems](https://algojobs.io/jobs/2587221) | [Neuralink](https://algojobs.io/company/neuralink/) | N/A | Fremont, California, United States |
 | 12/13/2024 | [Software Engineer Intern, Lab Systems](https://algojobs.io/jobs/2587220) | [Neuralink](https://algojobs.io/company/neuralink/) | N/A | Austin, Texas, United States |
-| 12/13/2024 | [Fullstack Software Engineer - Europe](https://algojobs.io/jobs/2586607) | [FareHarbor](https://algojobs.io/company/fareharbor/) | N/A | Amsterdam |
-| 12/13/2024 | [Software Engineer II - FullStack](https://algojobs.io/jobs/2586714) | [Abnormal Security](https://algojobs.io/company/abnormalsecurity/) | N/A | Hybrid - Bangalore, India |
-| 12/13/2024 | [Senior Software Engineer - Backend](https://algojobs.io/jobs/2584392) | [Geomagical Labs](https://algojobs.io/company/geomagical-labs/) | N/A | Amsterdam, North Holland, Netherlands |
-| 12/12/2024 | [Senior Software Engineer, Full Stack](https://algojobs.io/jobs/2574530) | [Biograph](https://algojobs.io/company/biograph/) | $150K - $200K | New York, New York, United States |
-| 12/12/2024 | [Senior Software Engineer, Errors and Issues](https://algojobs.io/jobs/2562238) | [Sentry](https://algojobs.io/company/sentry/) | $190K - $215K | San Francisco, California  |
-| 12/12/2024 | [Software Engineer](https://algojobs.io/jobs/2576504) | [Radiance](https://algojobs.io/company/radiancetech/) | N/A | Huntsville, AL, United States of America |
-| 12/12/2024 | [Senior Software Engineer (Front End)- HumanSignal](https://algojobs.io/jobs/2571968) | [Unusual Ventures](https://algojobs.io/company/unusual/) | N/A | New York, New York (Hybrid) |
-| 12/12/2024 | [Senior Software Engineer (Front End)- HumanSignal](https://algojobs.io/jobs/2571970) | [Unusual Ventures](https://algojobs.io/company/unusual/) | N/A | San Francisco Bay Area (Hybrid) |
-| 12/11/2024 | [Software Development Engineer-III (C#, .Net)](https://algojobs.io/jobs/2561272) | [Innovaccer Inc.](https://algojobs.io/company/innovaccer/) | N/A | Noida, Uttar Pradesh, India |
-| 12/11/2024 | [Software Engineer - Territory and Quota Team](https://algojobs.io/jobs/2560350) | [CaptivateIQ](https://algojobs.io/company/captivateiq/) | $183K - $222K | Toronto (Remote) |
-| 12/11/2024 | [Software Engineer - Territory and Quota Team](https://algojobs.io/jobs/2560353) | [CaptivateIQ](https://algojobs.io/company/captivateiq/) | $157K - $188K | Toronto (Remote) |
-| 12/11/2024 | [Fullstack Software Engineer](https://algojobs.io/jobs/2560348) | [CaptivateIQ](https://algojobs.io/company/captivateiq/) | $157K - $188K | Toronto (Remote) |
-| 12/11/2024 | [Senior Backend Engineer](https://algojobs.io/jobs/2563194) | [The Exploration Company](https://algojobs.io/company/the-exploration-company/) | N/A | Munich, Germany |
-| 12/10/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2549516) | [Collective Inc](https://algojobs.io/company/collectiveinc/) | $211K - $232K | San Francisco, California, United States |
-| 12/10/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2547434) | [6sense](https://algojobs.io/company/6sense/) | N/A | Pune, Maharashtra, India |
-| 12/10/2024 | [Senior Full Stack Software Engineer (United States)](https://algojobs.io/jobs/2533361) | [Noodle](https://algojobs.io/company/noodle/) | $110K - $120K | New York, New York (Hybrid) |
-| 12/09/2024 | [Full Stack Developer (5494)](https://algojobs.io/jobs/2535881) | [MetroStar](https://algojobs.io/company/metrostarsystems/) | N/A | Hybrid - local to the D.C. metro area |
-| 12/09/2024 | [Senior Full-Stack Software Engineer](https://algojobs.io/jobs/2535810) | [Zencoder](https://algojobs.io/company/zencoder/) | N/A | Remote |
-| 12/09/2024 | [Software Engineer (Credit/ML)](https://algojobs.io/jobs/2536314) | [Slope](https://algojobs.io/company/slope/) | N/A | San Francisco |
